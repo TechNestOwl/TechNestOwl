@@ -1,7 +1,7 @@
-Hello 👋 Welcome to my profile, most of my work is private. But I have some public projects here.
+Hello 👋 Welcome to my Github, most of my work is private. But I have some public projects here.
 
 
-I'm Gill Guimaraes, a full-stack software engineering bootcamp gradutate / TA.
+I'm a full-stack software engineering bootcamp gradutate / TA.
 I foucs on development using HTML, Javascript,CSS,Bootstrap, Node.js, React.
 
 
