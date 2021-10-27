@@ -12,7 +12,7 @@ I foucs on development using HTML, Javascript,CSS,Bootstrap, Node.js, React.
 
 🔑 Connect with me on LinkedIn: https://www.linkedin.com/in/gill-guimaraes-6aa9141b4/
 
-My Skills 💻
+<!-- My Skills 💻 -->
 
 ![image](https://user-images.githubusercontent.com/63368519/139105444-f27a2fd6-94ae-4ea9-901c-50be6f3414cd.png)
 
