@@ -1,4 +1,5 @@
-Hello 👋 Welcome to my Github, most of my work is private. But I have some public projects here.
+#Hello 👋 Welcome to my Github, most of my work is private. But I have some public projects here.
+
 
 
 I'm a full-stack software engineering bootcamp gradutate / TA.
@@ -8,9 +9,11 @@ I foucs on development using HTML, Javascript,CSS,Bootstrap, Node.js, React.
 
 <!-- 🌱 I’m currently working as a TA for DigitalCrafts Bootcamp -->
 
-📫 How to reach me: technestowl@gmail.com
+*How to reach me:
 
-🔑 Connect with me on LinkedIn: https://www.linkedin.com/in/gill-guimaraes-6aa9141b4/
+           *📫 technestowl@gmail.com
+
+           *🔑 Connect with me on LinkedIn: https://www.linkedin.com/in/gill-guimaraes-6aa9141b4/
 
 <!-- My Skills 💻 -->
 
