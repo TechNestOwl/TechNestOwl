@@ -9,15 +9,17 @@ I foucs on development using HTML, Javascript,CSS,Bootstrap, Node.js, React.
 
 <!-- 🌱 I’m currently working as a TA for DigitalCrafts Bootcamp -->
 
-*How to reach me:
-
-           *📫 technestowl@gmail.com
-
-           *🔑 Connect with me on LinkedIn: https://www.linkedin.com/in/gill-guimaraes-6aa9141b4/
+How to reach me:
+          📫 technestowl@gmail.com
+          🔑 Connect with me on LinkedIn: https://www.linkedin.com/in/gill-guimaraes-6aa9141b4/
 
 <!-- My Skills 💻 -->
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
-![image](https://user-images.githubusercontent.com/63368519/139105444-f27a2fd6-94ae-4ea9-901c-50be6f3414cd.png)
+<!-- ![image](https://user-images.githubusercontent.com/63368519/139105444-f27a2fd6-94ae-4ea9-901c-50be6f3414cd.png) -->
 
 
 
