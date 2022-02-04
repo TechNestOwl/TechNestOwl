@@ -3,7 +3,7 @@
 
 
 I'm a full-stack software engineering bootcamp gradutate / TA.
-I foucs on development using HTML, Javascript,CSS,Bootstrap, Node.js, React.
+I foucs on development using Javascript, HTML,CSS, Node.js, React.
 
 
 
