@@ -1,4 +1,4 @@
-## Hello 👋 Welcome to my Github, most of my work is private. But I have some public projects here.
+## Hello 👋 Welcome to my Github, some of my work is private. But I have some public projects here.
 
 
 
